@@ -1,3 +1,7 @@
+## Download
+
+Go to the Releases section on the right and download the latest version.
+
 # Discord Resolver
 
 Turn your Discord data export into readable chats and find people from your past.
