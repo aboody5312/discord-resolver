@@ -66,6 +66,8 @@ You only need these folders from your Discord export:
 
 ## Usage
 
+The output folders will appear next to your Discord export folder.
+
 1. Download your Discord data
 2. Extract the ZIP file
 3. Drag the folder onto `resolver.exe`
